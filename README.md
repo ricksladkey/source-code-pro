@@ -1,3 +1,13 @@
+_N.B. This is a fork of the_ [Source Code Pro repository](https://github.com/adobe/source-code-pro)
+
+This fork adds an alternate to **Source Code Pro** called **Source Code Prosaic**
+with narrower line spacing, similar to the relationship between **Lucida Sans
+Unicode** and **Lucida Console**.  By compromising the natural spacing, we can get
+an information-packing font with 20% more lines on the screen at the same font
+size.  The original font is unmodified.
+
+Original README follows:
+
 # Source Code Pro
 
 Source Code Pro is a set of OpenType fonts that have been designed to work well
