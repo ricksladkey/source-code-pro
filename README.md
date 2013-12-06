@@ -3,8 +3,18 @@ _N.B. This is a fork of the_ [Source Code Pro repository](https://github.com/ado
 This fork adds an alternate to **Source Code Pro** called **Source Code Prosaic**
 with narrower line spacing, similar to the relationship between **Lucida Sans
 Unicode** and **Lucida Console**.  By compromising the natural spacing, we can get
-an information-packing font with 20% more lines on the screen at the same font
-size.  The original font is unmodified.
+an information-packing font with 25% more lines on the screen at the same font
+size.  The original font is unmodified from the original repository.
+
+**Source Code Pro**:
+
+![Source Code Pro Sample](sample-SourceCodePro.png?raw=true)
+
+**Source Code Prosaic**:
+
+![Source Code Prosaic Sample](sample-SourceCodeProsaic.png?raw=true)
+
+TTX 2.4 that comes bundled with FDK 2.5 contains a bug (GlyphCoords); use TTX 2.3 as a workaround.
 
 Original README follows:
 
