@@ -1,6 +1,6 @@
 @echo off
 
-at >nul
+net session >nul 2>&1
 if not %errorlevel% == 0 (
     echo You must run this command with elevated privileges due to a bug in TX.EXE from the FDK:
     echo Quoting from "tx -h":
